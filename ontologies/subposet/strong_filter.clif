@@ -1,8 +1,0 @@
-
-(cl-text http://colore.oor.net/subposet/strong_filter.clif
-
-(cl-imports http://colore.oor.net/subposet/filter.clif)
-
-(cl-imports http://colore.oor.net/subposet/strong_subposet.clif)
-
-)

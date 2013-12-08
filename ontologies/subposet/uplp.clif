@@ -1,8 +1,0 @@
-
-(cl-text http://colore.oor.net/subposet/uplp.clif
-
-(cl-imports http://colore.oor.net/subposet/upper_preserve.clif)
-
-(cl-imports http://colore.oor.net/subposet/lower_preserve.clif)
-
-)

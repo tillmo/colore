@@ -1,8 +1,0 @@
-
-(cl-text http://colore.oor.net/orderings/final_dense_linear.clif
-
-(cl-imports http://colore.oor.net/orderings/dense_linear.clif)
-
-(cl-imports http://colore.oor.net/orderings/maxexists.clif)
-
-)

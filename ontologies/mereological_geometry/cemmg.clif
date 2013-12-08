@@ -1,8 +1,0 @@
-
-(cl-text http://colore.oor.net/mereological_geometry/cemmg.clif
-
-(cl-imports http://colore.oor.net/mereological_geometry/cmmg.clif)
-
-(cl-imports http://colore.oor.net/mereological_geometry/emmg.clif)
-
-)

@@ -1,8 +1,0 @@
-
-(cl-text http://colore.oor.net/orderings/discrete_tree.clif
-
-(cl-imports http://colore.oor.net/orderings/tree.clif)
-
-(cl-imports http://colore.oor.net/orderings/discrete_partial.clif)
-
-)

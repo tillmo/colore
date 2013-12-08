@@ -1,8 +1,0 @@
-
-(cl-text http://colore.oor.net/combined_time/back-continuum.clif
-
-(cl-imports http://colore.oor.net/combined_time/backwards.clif)
-
-(cl-imports http://colore.oor.net/combined_time/no_moment.clif)
-
-)

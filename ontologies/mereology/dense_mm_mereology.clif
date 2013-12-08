@@ -1,8 +1,0 @@
-
-(cl-text http://colore.oor.net/mereology/dense_mm_mereology.clif
-
-(cl-imports http://colore.oor.net/mereology/mm_mereology.clif)
-
-(cl-imports http://colore.oor.net/mereology/dense_mereology.clif)
-
-)

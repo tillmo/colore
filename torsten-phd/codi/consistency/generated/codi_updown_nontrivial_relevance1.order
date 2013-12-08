@@ -1,3 +1,0 @@
-predicate_order ([ MaxDim, <=, PO, Inc, MinDim, SC, EqDim, =, C, sum, PP, P, ZEX, <, Cont]).
-set(inverse_order).
-assign(order,kbo).

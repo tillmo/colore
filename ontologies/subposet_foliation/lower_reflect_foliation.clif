@@ -1,8 +1,0 @@
-
-(cl-text http://colore.oor.net/subposet_foliation/lower_reflect_foliation.clif
-
-(cl-imports http://colore.oor.net/subposet_foliation/sub_foliation.clif)
-
-(cl-imports http://colore.oor.net/subposet_bundle/lower_reflect_bundle.clif)
-
-)

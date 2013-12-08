@@ -1,8 +1,0 @@
-
-(cl-text http://colore.oor.net/ordered_geometry/lcog.clif
-
-(cl-imports http://colore.oor.net/ordered_geometry/log.clif)
-
-(cl-imports http://colore.oor.net/ordered_geometry/bideal.clif)
-
-)

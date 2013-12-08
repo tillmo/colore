@@ -1,8 +1,0 @@
-
-(cl-text http://colore.oor.net/orderings/dense_semilinear.clif
-
-(cl-imports http://colore.oor.net/orderings/semilinear_ordering.clif)
-
-(cl-imports http://colore.oor.net/orderings/dense_partial.clif)
-
-)

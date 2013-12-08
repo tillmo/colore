@@ -1,8 +1,0 @@
-
-(cl-text http://colore.oor.net/ordered_geometry/semilinear_exlog.clif
-
-(cl-imports http://colore.oor.net/ordered_geometry/semilinear_log.clif)
-
-(cl-imports http://colore.oor.net/ordered_geometry/exog.clif)
-
-)

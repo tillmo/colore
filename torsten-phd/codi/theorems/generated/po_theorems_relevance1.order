@@ -1,3 +1,0 @@
-predicate_order ([ =, C, P, ZEX, PO, Cont, EqDim, <]).
-set(inverse_order).
-assign(order,kbo).

@@ -1,3 +1,0 @@
-formulas(goals).
-all x all y all z ((-((meet(join(x, y), z) = "zero")) <-> -((meet(z, x) = "zero")) | -((meet(z, y) = "zero")))).
-end_of_list.

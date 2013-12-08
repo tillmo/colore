@@ -1,8 +1,0 @@
-
-(cl-text http://colore.oor.net/mereological_geometry/bipartite_upper_mg.clif
-
-(cl-imports http://colore.oor.net/mereological_geometry/upper_mg.clif)
-
-(cl-imports http://colore.oor.net/bipartite_incidence/bipartite_incidence.clif)
-
-)

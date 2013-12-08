@@ -1,3 +1,0 @@
-formulas(goals).
-all x all z (((meet(z, oc(x)) = z) -> -(C(z, x)))).
-end_of_list.

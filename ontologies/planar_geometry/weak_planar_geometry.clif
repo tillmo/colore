@@ -1,8 +1,0 @@
-
-(cl-text http://colore.oor.net/planar_geometry/weak_planar_geometry.clif
-
-(cl-imports http://colore.oor.net/tripartite_incidence/transitive_tripartite.clif)
-
-(cl-imports http://colore.oor.net/ordered_geometry/wog.clif)
-
-)

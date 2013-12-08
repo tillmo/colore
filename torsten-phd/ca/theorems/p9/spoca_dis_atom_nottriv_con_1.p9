@@ -1,3 +1,0 @@
-formulas(goals).
-( exists y (-((y = "one")) & C(y, y)) ->  exists x (-((x = "zero")) & -((x = "one")) & -(C(x, oc(x))))).
-end_of_list.

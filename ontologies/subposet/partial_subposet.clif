@@ -1,8 +1,0 @@
-
-(cl-text http://colore.oor.net/subposet/partial_subposet.clif
-
-(cl-imports http://colore.oor.net/subposet/subposet_root.clif)
-
-(cl-imports http://colore.oor.net/orderings/partial_ordering.clif)
-
-)

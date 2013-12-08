@@ -1,8 +1,0 @@
-
-(cl-text http://colore.oor.net/tripartite_incidence/quasi_partitioning.clif
-
-(cl-imports http://colore.oor.net/tripartite_incidence/quasi_graded.clif)
-
-(cl-imports http://colore.oor.net/tripartite_incidence/unique_plane.clif)
-
-)

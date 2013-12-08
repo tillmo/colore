@@ -1,8 +1,0 @@
-
-(cl-text http://colore.oor.net/quadripartite_incidence/cospatial_partitioning.clif
-
-(cl-imports http://colore.oor.net/quadripartite_incidence/space_partitioning.clif)
-
-(cl-imports http://colore.oor.net/quadripartite_incidence/cospatial_intersect.clif)
-
-)

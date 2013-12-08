@@ -1,8 +1,0 @@
-
-(cl-text http://colore.oor.net/tripartite_incidence/transitive_subplane.clif
-
-(cl-imports http://colore.oor.net/tripartite_incidence/transitive_tripartite.clif)
-
-(cl-imports http://colore.oor.net/tripartite_incidence/subplane.clif)
-
-)

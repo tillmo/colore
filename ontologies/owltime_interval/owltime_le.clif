@@ -1,8 +1,0 @@
-
-(cl-text http://colore.oor.net/owltime_interval/owltime_le.clif
-
-(cl-imports http://colore.oor.net/owltime_interval/owltime_linear.clif)
-
-(cl-imports http://colore.oor.net/owltime_interval/owltime_e.clif)
-
-)

@@ -1,8 +1,0 @@
-
-(cl-text http://colore.oor.net/tripartite_incidence/partitioning.clif
-
-(cl-imports http://colore.oor.net/tripartite_incidence/graded_poset3.clif)
-
-(cl-imports http://colore.oor.net/tripartite_incidence/unique_plane.clif)
-
-)

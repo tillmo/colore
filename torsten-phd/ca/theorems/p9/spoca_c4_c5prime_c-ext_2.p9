@@ -1,3 +1,0 @@
-formulas(goals).
-all x all y (((x = y) ->  all z ((C(x, z) <-> C(y, z))))).
-end_of_list.
